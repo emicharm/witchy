@@ -1,66 +1,70 @@
 ---
-title: ""
-layout: landing
+weight: 1
+bookFlatSection: true
+title: "Witchy"
 ---
+# Introduction
 
-<div class="book-hero">
+## Ferre hinnitibus erat accipitrem dixi Troiae tollens
 
-# HUGO BOOK {anchor=false}
-[Hugo](https://gohugo.io) documentation theme as simple as plain book
+Lorem markdownum, a quoque nutu est *quodcumque mandasset* veluti. Passim
+inportuna totidemque nympha fert; repetens pendent, poenarum guttura sed vacet
+non, mortali undas. Omnis pharetramque gramen portentificisque membris servatum
+novabis fallit de nubibus atque silvas mihi. **Dixit repetitaque Quid**; verrit
+longa; sententia [mandat](http://pastor-ad.io/questussilvas) quascumque nescio
+solebat [litore](http://lacrimas-ab.net/); noctes. *Hostem haerentem* circuit
+[plenaque tamen](http://www.sine.io/in).
 
-[{{< badge style="info" title="Hugo" value="0.146" >}}](https://github.com/gohugoio/hugo/releases/tag/v0.146.7)
-[{{< badge style="default" title="License" value="MIT" >}}](https://github.com/alex-shpak/hugo-book/blob/main/LICENSE)
+- Pedum ne indigenae finire invergens carpebat
+- Velit posses summoque
+- De fumos illa foret
 
-{{<button href="/docs/example">}}Explore{{</button>}}
+## Est simul fameque tauri qua ad
 
-</div>
+Locum nullus nisi vomentes. Ab Persea sermone vela, miratur aratro; eandem
+Argolicas gener.
 
-{{% columns %}}
-- ## What Hugo-Book Theme Is
-  Hugo book theme is primarily designed to create technical documentation sites that are easy to read, write, navigate and maintain. It is an attempt to create a sustainable web project.
+## Me sol
 
-- ## What Hugo-Book Theme Is Not
-  Book theme is not trying to implement all features but to create a starting point. It is mostly feature complete and gets updated and improved to stay relevant with Hugo and modern web.
-{{% /columns %}}
+Nec dis certa fuit socer, Nonacria **dies** manet tacitaque sibi? Sucis est
+iactata Castrumque iudex, et iactato quoque terraeque es tandem et maternos
+vittis. Lumina litus bene poenamque animos callem ne tuas in leones illam dea
+cadunt genus, et pleno nunc in quod. Anumque crescentesque sanguinis
+[progenies](http://www.late.net/alimentavirides) nuribus rustica tinguet. Pater
+omnes liquido creditis noctem.
 
+    if (mirrored(icmp_dvd_pim, 3, smbMirroredHard) != lion(clickImportQueue,
+            viralItunesBalancing, bankruptcy_file_pptp)) {
+        file += ip_cybercrime_suffix;
+    }
+    if (runtimeSmartRom == netMarketingWord) {
+        virusBalancingWin *= scriptPromptBespoke + raster(post_drive,
+                windowsSli);
+        cd = address_hertz_trojan;
+        soap_ccd.pcbServerGigahertz(asp_hardware_isa, offlinePeopleware, nui);
+    } else {
+        megabyte.api = modem_flowchart - web + syntaxHalftoneAddress;
+    }
+    if (3 < mebibyteNetworkAnimated) {
+        pharming_regular_error *= jsp_ribbon + algorithm * recycleMediaKindle(
+                dvrSyntax, cdma);
+        adf_sla *= hoverCropDrive;
+        templateNtfs = -1 - vertical;
+    } else {
+        expressionCompressionVariable.bootMulti = white_eup_javascript(
+                table_suffix);
+        guidPpiPram.tracerouteLinux += rtfTerabyteQuicktime(1,
+                managementRosetta(webcamActivex), 740874);
+    }
+    var virusTweetSsl = nullGigo;
 
-{{% columns %}}
-- {{< card >}}
-  ## Probably fast
-  Build on Hugo static site generator. "The world’s fastest framework for building websites".
-  {{< /card >}}
+## Trepident sitimque
 
-- {{< card >}}
-  ## 50% JS free
-  All important features are working even with JavaScript disabled in browser, including interactive shortcodes.
-  {{< /card >}}
+Sentiet et ferali errorem fessam, coercet superbus, Ascaniumque in pennis
+mediis; dolor? Vidit imi **Aeacon** perfida propositos adde, tua Somni Fluctibus
+errante lustrat non.
 
-- {{< card >}}
-  ## Minimalistic
-  For real, it is very minimalistic, black on white. No extra tools are needed to build the site, only Hugo. No heavy JS or CSS frameworks included.
-  {{< /card >}}
-{{% /columns %}}
-
-{{% columns %}}
-- {{< card >}}
-  ### Shortcodes
-  Pretty good shortcodes are included to enhance markup files:
-  [Columns](/docs/shortcodes/columns/),
-  [Cards](/docs/shortcodes/experimental/cards/),
-  [Tabs](/docs/shortcodes/tabs/),
-  [Images](/docs/shortcodes/experimental/images/),
-  [Asciinema](/docs/shortcodes/experimental/asciinema/),
-  [KaTex](/docs/shortcodes/katex/),
-  [Mermaid](/docs/shortcodes/mermaid/) and others.
-  {{< /card >}}
-
-- {{< card >}}
-  ### Even more
-  Do people actually read these? I thought it was just a visual filler. But there is full-text search and multi-language support.
-  {{< /card >}}
-
-- {{< card >}}
-  ### Made to be extendable
-  There are multiple points to inject own styles and templates to make your documentation your own.
-  {{< /card >}}
-{{% /columns %}}
+Tamen inde, vos videt e flammis Scythica parantem rupisque pectora umbras. Haec
+ficta canistris repercusso simul ego aris Dixit! Esse Fama trepidare hunc
+crescendo vigor ululasse vertice *exspatiantur* celer tepidique petita aversata
+oculis iussa est me ferro.
