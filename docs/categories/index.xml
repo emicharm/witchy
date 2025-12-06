@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Witchy</title>
-    <link>http://emi.charm.github.io/witchy/categories/</link>
+    <link>http://emicharm.github.io/witchy/categories/</link>
     <description>Recent content in Categories on Witchy</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>[© CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)</copyright>
     <lastBuildDate>Fri, 05 Dec 2025 22:05:56 -0300</lastBuildDate>
-    <atom:link href="http://emi.charm.github.io/witchy/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://emicharm.github.io/witchy/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Development</title>
-      <link>http://emi.charm.github.io/witchy/categories/Development/</link>
+      <link>http://emicharm.github.io/witchy/categories/Development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>http://emi.charm.github.io/witchy/categories/Development/</guid>
+      <guid>http://emicharm.github.io/witchy/categories/Development/</guid>
       <description></description>
     </item>
     <item>
       <title>Golang</title>
-      <link>http://emi.charm.github.io/witchy/categories/golang/</link>
+      <link>http://emicharm.github.io/witchy/categories/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>http://emi.charm.github.io/witchy/categories/golang/</guid>
+      <guid>http://emicharm.github.io/witchy/categories/golang/</guid>
       <description></description>
     </item>
   </channel>
