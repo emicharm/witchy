@@ -1,0 +1,1 @@
+navigator.serviceWorker&&navigator.serviceWorker.register("/witchy/sw.js",{scope:"/witchy/"})

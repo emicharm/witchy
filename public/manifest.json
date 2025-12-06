@@ -1,0 +1,15 @@
+{
+  "name": "Witchy",
+  "short_name": "Witchy",
+  "start_url": "/witchy/",
+  "scope": "/witchy/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/witchy/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}
